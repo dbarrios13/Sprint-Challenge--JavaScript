@@ -18,7 +18,7 @@ const cuboid = new CuboidMaker ({
     width: 5,
     height: 5
 });
-  
+
   
 
 // Test your volume and surfaceArea methods by uncommenting the logs below:
